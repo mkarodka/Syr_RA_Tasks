@@ -1,6 +1,6 @@
 # Task_05_Descriptive_Stats
 
-This project explores descriptive statistics using Syracuse University Women's Basketball dataset, combined with prompt engineering to interact with a Large Language Model (LLM) for question answering and insight generation.
+This project explores descriptive statistics using the 2023–2024 NCAA Division 1 Women’s Basketball dataset, combined with prompt engineering to interact with a Large Language Model (LLM) for question answering and insight generation.
 
 ## 📌 Objective
 
