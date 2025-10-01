@@ -59,25 +59,6 @@ Refer to [`llm_prompts_and_responses.md`](llm_prompts_and_responses.md) for:
 4. **Validation**:
    - LLM answers were validated against the actual dataset using the stats generated.
 
-## 📌 Submission Instructions
-
-**Note:** The dataset files (`*.csv`) are **excluded from the GitHub repo** to comply with task instructions.
-
-To submit:
-1. Upload this code and markdown content to a **public GitHub repo** titled:
-   ```
-   Task_05_Descriptive_Stats
-   ```
-2. Submit your repo link to:
-   ```
-   jrstrome@syr.edu
-   ```
-
-## ⏱️ Time Reporting Reminder
-
-Report progress through the Qualtrics form:
-[https://syracuseuniversity.qualtrics.com/jfe/form/SV_cDgnzM695AMx8d8](https://syracuseuniversity.qualtrics.com/jfe/form/SV_cDgnzM695AMx8d8)
-
 ## 🔗 References
 
 - [Original SU Women’s Basketball Stats](https://cuse.com/sports/2013/1/16/WLAX_0116134638)
